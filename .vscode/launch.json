@@ -6,17 +6,24 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Pratise",
+            "name": "LargestNum",
             "request": "launch",
-            "mainClass": "Pratise",
-            "projectName": "codding_ffd6d8e9"
+            "mainClass": "LargestNum",
+            "projectName": "codding_b9c6f2fc"
         },
         {
             "type": "java",
-            "name": "SubArray",
+            "name": "CountFrequency",
             "request": "launch",
-            "mainClass": "SubArray",
-            "projectName": "codding_ffd6d8e9"
+            "mainClass": "HashMapCon.CountFrequency",
+            "projectName": "codding_b9c6f2fc"
+        },
+        {
+            "type": "java",
+            "name": "Subsets",
+            "request": "launch",
+            "mainClass": "Arrays.Subsets",
+            "projectName": "codding_b9c6f2fc"
         },
         {
             "type": "java",
@@ -26,9 +33,23 @@
         },
         {
             "type": "java",
-            "name": "Demo",
+            "name": "Code",
             "request": "launch",
-            "mainClass": "Demo",
+            "mainClass": "Code",
+            "projectName": "codding_ffd6d8e9"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "codding_ffd6d8e9"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
             "projectName": "codding_ffd6d8e9"
         }
     ]
